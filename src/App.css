@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: regular;
+    src: url(./assets/Fonts/KyivTypeTitling-Regular.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: regular;
+}
